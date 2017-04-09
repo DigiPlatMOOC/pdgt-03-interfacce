@@ -1,0 +1,9 @@
+{
+  "description": "Test via API",
+  "public": false,
+  "files": {
+    "test.md": {
+      "content": "# Ciao\n\nQuesto file è stato caricato tramite le API di GitHub."
+    }
+  }
+}
